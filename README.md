@@ -21,3 +21,6 @@ Análise exploratória e modelagem de dados
 
 💡 Destaques:
 O projeto permite identificar clubes e treiandores com um padrão de jogo, assim como seus desempenhos, filtrar e visualizar rapidamente como os estilos de jogo impactam os resultados ao longo dos anos, além de possibilitar uma análise comparativa entre diferentes formações táticas.
+
+⚠️ **Aviso:** Os dados utilizados neste projeto são públicos, mas não estão incluídos no repositório por questões legais. Caso tenha interesse em reproduzir a análise, entre em contato ou consulte bases públicas do Campeonato Brasileiro.
+
