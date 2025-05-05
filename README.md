@@ -1,4 +1,4 @@
-# Analise-de-dados-Brasileir-o
+# Analise-de-dados-Brasileirao
 Este projeto explora dados dos últimos anos do Campeonato Brasileiro com o objetivo de identificar padrões de desempenho, analisar estilos de jogo e avaliar a eficácia tática de diferentes equipes e treinadores.
 
 ✅ O que você vai encontrar:
